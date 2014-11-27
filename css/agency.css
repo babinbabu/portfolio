@@ -876,9 +876,12 @@ body {
 
 .aboutme p
 {
-    font-color: #fff;
     font-size: 12px;
     float: right;
+    width: 75%;
+    color: #fff;
+    margin-top: 45px;
+
 }
 .photo
 {
