@@ -868,12 +868,17 @@ body {
 }
 .aboutme
 {
-    float: right;
+    width: 100%;
 }
+.aboutme img{
+    float: left;
+}
+
 .aboutme p
 {
     font-color: #fff;
     font-size: 12px;
+    float: right;
 }
 .photo
 {
