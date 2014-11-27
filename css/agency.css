@@ -860,3 +860,17 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.myphoto
+{
+  width: 148px;  
+}
+.aboutme
+{
+    float: left;
+}
+.aboutme p
+{
+    font-color: #fff;
+    font-size: 12px;
+}
