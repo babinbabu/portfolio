@@ -864,13 +864,18 @@ body {
 .myphoto
 {
   width: 148px;  
+ 
 }
 .aboutme
 {
-    float: left;
+    float: right;
 }
 .aboutme p
 {
     font-color: #fff;
     font-size: 12px;
+}
+.photo
+{
+    float: left;
 }
